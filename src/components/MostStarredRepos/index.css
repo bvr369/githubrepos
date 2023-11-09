@@ -1,0 +1,12 @@
+.bg-container {
+  text-align: center;
+  padding: 100px;
+  font-family: 'Roboto';
+}
+
+.main-heading {
+  color: #302d24;
+  margin-bottom: 50px;
+  font-size: 60px;
+  font-family: 'Courier New', Courier, monospace;
+}
